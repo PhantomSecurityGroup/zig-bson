@@ -5,7 +5,7 @@
         // todo: update this to a versioned tag when this package publishes one
         .benchmark = .{
             .url = "https://github.com/silversquirl/benchmark.zig/archive/refs/heads/main/main.tar.gz",
-            .hash = "1220287c22cfcf85f05d353084e12200c6a7dcb5f4511cb05103f5dbd709e50731a7",
+            .hash = "12208e0453a69b1069810d693c39dbef091af8e17605544a7ac85364389169e6d4c3",
         },
     },
     .minimum_zig_version = "0.14.0",
